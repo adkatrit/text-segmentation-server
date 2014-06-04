@@ -5,7 +5,7 @@ an http server wrapped around norvig's text segmentation implemenation
 
 `pip install tornado`
 
-`python server`
+`python server.py &`
 
 ```
 curl "localhost:8888?q=whorepresents"
